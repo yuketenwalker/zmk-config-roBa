@@ -70,7 +70,7 @@
 &kp Q      &kp W         &kp E         &kp R           &kp T                                           &kp Y        &kp U  &kp I      &kp O    &kp P
 &kp A      &kp S         &kp D         &kp F           &kp G      &msc SCRL_DOWN      &kp EXCLAMATION  &kp H        &kp J  &kp K      &kp L    &kp MINUS
 &kp Z      &kp X         &kp C         &kp V           &kp B      &kp TAB             &kp SEMICOLON    &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &kp LEFT_SHIFT  &kp SPACE  &lt 2 LANG5         &kp BACKSPACE    &lt 1 ENTER                             &kp DEL
+&kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &kp LEFT_SHIFT  &kp SPACE  &lt 2 TILDE         &kp BACKSPACE    &lt 1 ENTER                             &kp DEL
             >;
 
             sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
